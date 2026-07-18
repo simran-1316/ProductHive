@@ -6,7 +6,7 @@
 <img width="1887" height="850" alt="Screenshot 2026-07-08 110449" src="https://github.com/user-attachments/assets/bcf37ded-ded7-4c02-b14f-686e2bbaefd6" />
 # ProductHive 🛍️
 
-ProductHive is a frontend shopping website focused on beauty products and cosmetics. The project was built to practice frontend web development concepts, responsive layouts, and user-friendly interface design using HTML, CSS, JavaScript, and Bootstrap.
+ProductHive is a frontend shopping website focused on beauty products and cosmetics. The project was built to practice frontend web development concepts, responsive layouts, and user-friendly interface design using HTML, JavaScript, and Bootstrap.
 
 ## 🚀 Features
 
@@ -19,7 +19,6 @@ ProductHive is a frontend shopping website focused on beauty products and cosmet
 ## 🛠️ Tech Stack
 
 - HTML
-- CSS
 - JavaScript
 - Bootstrap
 
